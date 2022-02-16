@@ -1,0 +1,28 @@
+#box1{
+    border: 2px solid rgb(15, 200, 170);
+    height: 40px;
+    width: 200px;
+    margin: 50px 25px 5px 25px;
+    border-radius: 15px;
+    color: rgb(15, 200, 170);
+    background-color: whitesmoke;
+}
+
+#box2 {
+    height: 40px;
+    width: 40px;
+    margin: 20px 25px 5px 25px;
+    border-radius: 50%;
+    color: white;
+    background-color: rgb(15, 200, 170);
+    border-color: transparent;
+}
+
+#box3 {
+    width: 170px;
+    height: 35px;
+    color: white;
+    background-color: rgb(17, 0, 255);
+    margin: 20px 25px 5px 25px;
+    border-color: solid black;
+}
